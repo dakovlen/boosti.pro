@@ -3,8 +3,10 @@ layout: ../../layouts/MarkdownPostLayout.astro
 pubDate: 2022-07-01
 meta_description: 'This is the first post of my new Astro blog.'
 author: 'Boosti Learner'
-title: 'My First Blog Post'
+title: 'My Second Blog Post'
 ---
+
+
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 

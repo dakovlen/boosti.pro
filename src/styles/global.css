@@ -52,6 +52,7 @@ h1 {
   background-color: #ff9776;
   display: none;
   margin: 0;
+  list-style: none;
 }
 
 .nav-links a {
